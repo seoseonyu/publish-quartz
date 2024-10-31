@@ -1,10 +1,9 @@
 ---
 publish: true
+title: DEVKO Knowledge Base
 ---
 
-# DEVKO Knowledge Base
-
-**DEVKO Knowledge Base**에 오신 것을 환영합니다!  
+**DEVKO Knowledge Base**에 오신 것을 환영합니다!
 
 ---
 
@@ -12,12 +11,13 @@ publish: true
 
 - **프로그래밍 언어**
   - **[[자바스크립트|자바스크립트]]**
-  - **[[루비|루비]]**
 
 - **웹 개발**
   - **[[HTML & CSS|HTML & CSS]]**
   - **[[ReactJS|ReactJS]]**
   - **[[Node.js|Node.js]]**
+
+- **서버**
 
 ## 🛠️ 도구
 
@@ -27,10 +27,10 @@ publish: true
 
 ## ✍️ 나에 대해
 
-안녕하세요! 저는 기술 분야에서 지식을 공유하고 다른 사람들이 성장하도록 돕는데 열정을 가진 개발자이자 교육자입니다. 편하게 연락주세요:
+안녕하세요! 저는 새로운 기술을 습득하는 것을 즐기며, 유용하고 혁신적인 오픈소스에 큰 관심을 가지고 있습니다. 또한, 개인 서버를 구성하는 것을 재미있어하여 다양한 프로젝트를 통해 학습하고 있습니다. 여러분과 함께 지식을 나누고 성장할 수 있기를 기대합니다!
 
-- **이메일:** [contact@devko.me](contact@devko.me)
-- **GitHub:** [GitHub](https://github.com/seoseonyu)
+- **이메일:** [contact@devko.me](mailto:contact@devko.me)
+- **GitHub:** [seoseonyu](https://github.com/seoseonyu)
 
 ---
 
